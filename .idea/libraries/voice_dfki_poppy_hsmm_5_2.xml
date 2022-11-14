@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="voice-dfki-poppy-hsmm-5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libraries/voice-dfki-poppy-hsmm-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries/voice-cmu-rms-hsmm-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries/marytts-lang-en-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries/marytts-builder-5.2-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
